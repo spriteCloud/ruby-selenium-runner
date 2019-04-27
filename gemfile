@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-#Install the required gems to run ruby cucumber selenium tests
+# Install the latest version of the required gems to run ruby cucumber selenium tests
 gem 'lapis_lazuli'
 gem 'cucumber-calliope_importer'
