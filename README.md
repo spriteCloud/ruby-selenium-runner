@@ -11,10 +11,10 @@ You can use this image within a gitlab setup and execute tests from within the c
 #Building and committing
 Build image with tag spritecloud/ruby-selenium-runner:<rubyversion>
 ```bash
-$ docker build --tag=spritecloud/ruby-selenium-runner:2.3 .
+$ docker build --tag=spritecloud/ruby-selenium-runner:2.6 .
 ```
 
 Push image to docker repo
 ```bash
-$ docker push spritecloud/ruby-selenium-runner:2.3
+$ docker push spritecloud/ruby-selenium-runner:2.6
 ```
